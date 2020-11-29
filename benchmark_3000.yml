@@ -1,5 +1,5 @@
 type: ruby_stdout
-name: Optcarrot Lan_Master.nes
+name: Optcarrot 3000 frames
 command: -r./tools/shim.rb bin/optcarrot --benchmark --frames=3000 examples/Lan_Master.nes
 metrics:
   Number of frames:
